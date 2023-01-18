@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pwCustomAlertBox", "pwCustomAlertBox\pwCustomAlertBox.csproj", "{11E66011-1EAD-4393-A6C2-A32C59C5A392}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pwCustomAlertBoxDemo", "pwCustomAlertBoxDemo\pwCustomAlertBoxDemo.csproj", "{6E820E64-912A-49C2-9F96-CD79841ED6A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11E66011-1EAD-4393-A6C2-A32C59C5A392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11E66011-1EAD-4393-A6C2-A32C59C5A392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11E66011-1EAD-4393-A6C2-A32C59C5A392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11E66011-1EAD-4393-A6C2-A32C59C5A392}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E820E64-912A-49C2-9F96-CD79841ED6A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E820E64-912A-49C2-9F96-CD79841ED6A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E820E64-912A-49C2-9F96-CD79841ED6A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E820E64-912A-49C2-9F96-CD79841ED6A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B01B5F2-93F4-4525-8051-96EC341D22F7}
+	EndGlobalSection
+EndGlobal
