@@ -9,7 +9,6 @@
 	<requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="file">license.txt</license>
     <projectUrl>https://github.com/philippewaty/pwCustomAlertBox</projectUrl>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Display a custom alert box near the Systray</description>
     <releaseNotes></releaseNotes>
     <copyright>Copyright © Philippe Waty 2023</copyright>
